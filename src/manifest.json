@@ -1,0 +1,14 @@
+{
+        "manifest_version": 2,
+        "name": "Stats is Sexy to Stats is Suffering",
+        "version": "1.0",
+        "description": "Replaces the text 'stats is sexy' with 'stats is suffering.'.",
+        "content_scripts": 
+        [
+                {
+                        "matches": ["*://*/*"],
+                        "js": ["content_script.js"],
+                        "run_at": "document_end"
+                }
+        ]
+}
