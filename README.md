@@ -7,9 +7,6 @@ It is mostly a fun example so I can see how a chrome extensions gets made and pa
 
 In order to install this in your Chrome browser:
 
-* Download sexy-to-suffering.crx: 
-
-        curl -o sexy-to-suffering.crx https://github.com/jhlch/sexy-to-suffering/raw/master/sexy-to-suffering.crx
-
+* [Download sexy-to-suffering.crx](https://github.com/jhlch/sexy-to-suffering/blob/master/sexy-to-suffering.crx?raw=true) 
 * Open the url `chrome://extensions/` in your browser.
 * Drag and drop sexy-to-suffering.crx into this page 
